@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+pdfplumber
+scikit-learn
+sentence-transformers
+torch
+torchvision
